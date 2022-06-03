@@ -9,6 +9,7 @@ public class Start {
         SpringApplication.run(Start.class);
     }
 //수정
+    //브렌치테스트
 }
 /* 패키지구조
         1. src
