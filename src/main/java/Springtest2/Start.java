@@ -8,7 +8,7 @@ public class Start {
     public static void main(String[] args) {
         SpringApplication.run(Start.class);
     }
-
+//수정
 }
 /* 패키지구조
         1. src
